@@ -2,3 +2,5 @@
 The script provides centroid-based optimisation of clustering results through genetic algortihm
 Uses silhouette index
 Initiliase the algorithm with pre-known centroid and the algorithm optimises the centroid after each iteration
+
+### Use with caution: only preliminary tests done with k-means and iris data
